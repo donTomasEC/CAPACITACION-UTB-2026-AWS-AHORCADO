@@ -19,10 +19,14 @@ phases:
 
 artifacts:
   files:
+    - dist/**/*
+    - server.cjs
     - package.json
     - package-lock.json
-    - server.js        # archivo de entrada
-    - src/**/*         # codigo
-    - Procfile
+    #- package.json
+    #- package-lock.json
+    #- server.js        # archivo de entrada
+    #- src/**/*         # codigo
+    #- Procfile
   
   base-directory: dist
