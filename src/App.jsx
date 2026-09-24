@@ -209,7 +209,7 @@ function App() {
         </span>
 
         <p><span>
-          Tomas Echeverria, Angel Espana
+          Tomas Echeverria, Angel Espana, Fabian Penaherrera, Harry Saltos
         </span></p>
         
 
