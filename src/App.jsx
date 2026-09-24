@@ -209,7 +209,7 @@ function App() {
         </span>
 
         <p><span>
-          Tomas Echeverria, 
+          Tomas Echeverria, Angel Espana
         </span></p>
         
 
