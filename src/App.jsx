@@ -205,13 +205,17 @@ function App() {
         </p>
 
         <span>
-          Desarrollado con React + Vite
+          CAPACITACIONES BO - Arquitecturas Modernas de Software y Cloud Computing
         </span>
+        
+        <p><span>
+          Integrantes
+        </span></p>
 
         <p><span>
-          Tomas Echeverria, Angel Espana, Fabian Penaherrera, Harry Saltos
+          Tomas Echeverria, Angel Espana, Fabian Penaherrera, Harry Saltos, Ivan Ruiz, 
+          Enrique Delgado
         </span></p>
-        
 
       </footer>
 
