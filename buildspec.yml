@@ -1,6 +1,6 @@
-version: 0.2
+#version: 0.2
 
-phases:
+#phases:
   install:
     runtime-versions:
       nodejs: 22
@@ -19,7 +19,7 @@ phases:
     commands:
       - echo "Build finalizado correctamente"
 
-artifacts:
+#artifacts:
   files:
     - dist/**/*
     - server.cjs
