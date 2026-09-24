@@ -30,5 +30,3 @@ artifacts:
     #- server.js        # archivo de entrada
     #- src/**/*         # codigo
     #- Procfile
-  
-  base-directory: dist
