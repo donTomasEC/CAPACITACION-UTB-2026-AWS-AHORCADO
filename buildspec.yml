@@ -1,0 +1,23 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 22
+    commands:
+      - echo "Instalando dependencias..."
+      - npm ci
+
+  build:
+    commands:
+      - echo "Construyendo aplicación React..."
+      - npm run build
+
+  post_build:
+    commands:
+      - echo "Build finalizado correctamente"
+
+artifacts:
+  files:
+    - '**/*'
+  base-directory: dist
