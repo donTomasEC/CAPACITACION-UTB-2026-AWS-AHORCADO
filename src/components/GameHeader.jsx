@@ -30,7 +30,7 @@ function GameHeader({
           <option value="programacion">
             💻 Programación
           </option>
-
+{/* 
           <option value="animales">
             🐾 Animales
           </option>
@@ -41,7 +41,7 @@ function GameHeader({
 
           <option value="tecnologia">
             🚀 Tecnología
-          </option>
+          </option>*/}
         </select>
 
 
@@ -51,17 +51,17 @@ function GameHeader({
             onDifficultyChange(event.target.value)
           }
         >
-          <option value="easy">
+          {/*<option value="easy">
             🟢 Fácil
-          </option>
+          </option>*/}
 
           <option value="medium">
             🟡 Normal
           </option>
 
-          <option value="hard">
+          {/*<option value="hard">
             🔴 Difícil
-          </option>
+          </option>*/}
         </select>
 
 
