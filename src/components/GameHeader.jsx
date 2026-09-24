@@ -9,8 +9,6 @@ function GameHeader({
     <header className="game-header">
 
     
-
-    
      <div>
         <h1>ACTIVIDAD CAPACITACION UTB 2026 - AHORCADO</h1>
         <p>
