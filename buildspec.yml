@@ -12,6 +12,8 @@ phases:
     commands:
       - echo "Construyendo aplicación React..."
       - npm run build
+      - ls -la dist
+      - test -f dist/index.html
 
   post_build:
     commands:
