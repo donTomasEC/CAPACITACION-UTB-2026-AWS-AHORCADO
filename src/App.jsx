@@ -213,8 +213,8 @@ function App() {
         </span></p>
 
         <p><span>
-          Tomas Echeverria, Angel Espana, Fabian Penaherrera, Harry Saltos, Ivan Ruiz, 
-          Enrique Delgado
+          TOMAS ECHEVERRIAa, FABIAN PEÑAHERRERA, MIGUEL ZÚÑIGA SÁNCHEZ, GERSON LEDESMA
+          ENRIQUE DELGADO, CRISTIAN SOLORZANO, GEOVANNY VEGA, MARCO VILLAMAR, ANDY BAYAS
         </span></p>
 
       </footer>
